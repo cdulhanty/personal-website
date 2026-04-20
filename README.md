@@ -5,12 +5,17 @@ with no build step. Just HTML and CSS.
 
 ## Files
 
-- `index.html` — About page
+- `index.html` — Home / about page
 - `publications.html` — Publications list
-- `styles.css` — Styles (light + dark modes)
+- `media.html` — Press coverage
+- `styles.css` — Styles (light + dark modes; Vollkorn serif)
+- `assets/images/` — Profile photo and press-outlet logos
+- `assets/fonts/` — Vollkorn + Fira Code (self-hosted woff2)
 - `CNAME` — Custom domain for GitHub Pages
 - `.nojekyll` — Disables Jekyll processing on GitHub Pages
 - `robots.txt`, `sitemap.xml` — SEO basics
+- `*.webarchive` — Safari archives of the original WordPress site, kept as
+  reference. Not served as part of the site.
 
 ## Local preview
 
