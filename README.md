@@ -14,8 +14,8 @@ with no build step. Just HTML and CSS.
 - `CNAME` — Custom domain for GitHub Pages
 - `.nojekyll` — Disables Jekyll processing on GitHub Pages
 - `robots.txt`, `sitemap.xml` — SEO basics
-- `*.webarchive` — Safari archives of the original WordPress site, kept as
-  reference. Not served as part of the site.
+- `archive/` — Safari `.webarchive` exports of the original WordPress site,
+  kept as reference. Not served as part of the site.
 
 ## Local preview
 
